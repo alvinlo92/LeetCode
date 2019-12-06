@@ -4,6 +4,7 @@ LeetCode problems I've worked on and attempted
 ## Solved
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript]() | Easy |
 | 705 | [Design Hashset](https://leetcode.com/problems/design-hashset/) | [JavaScript](https://github.com/alvinlo92/LeetCode/blob/master/705.%20Design%20HashSet/designHashSet.js) | Easy |
 
 
