@@ -11,5 +11,6 @@ LeetCode problems I've worked on and attempted
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [JavaScript](https://github.com/alvinlo92/LeetCode/blob/master/143.%20Reorder%20List/reorderList.js) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](https://github.com/alvinlo92/LeetCode/blob/master/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/findMinimumInRotatedSortedArray.js) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](https://github.com/alvinlo92/LeetCode/blob/master/155.%20Min%20Stack/minStack.js) | Easy |
+| 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [JavaScript](https://github.com/alvinlo92/LeetCode/blob/master/397.%20Integer%20Replacement/integerReplacement.js) | Medium |
 | 705 | [Design Hashset](https://leetcode.com/problems/design-hashset/) | [JavaScript](https://github.com/alvinlo92/LeetCode/blob/master/705.%20Design%20HashSet/designHashSet.js) | Easy |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [JavaScript](https://github.com/alvinlo92/LeetCode/tree/master/989.%20Add%20to%20Array-Form%20of%20Integer) | Easy |
